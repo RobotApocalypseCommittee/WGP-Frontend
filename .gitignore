@@ -1,0 +1,10 @@
+# platforms
+platforms/*
+
+# plugins
+plugins/*
+
+# vscode
+.vscode/
+
+# add node_modules if you want
